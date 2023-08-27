@@ -1,0 +1,42 @@
+/* header {
+  width: 100%;
+}
+.header__wrapper {
+  max-width: 1440px;
+  padding: 30px 130px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  background-color: #79e9fd;
+}
+.nav-items {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+.nav-itme {
+  font-size: 18px;
+  font-weight: 700;
+  list-style-type: none;
+}
+.login-btn {
+  padding: 10px 16px;
+  background-color: crimson;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+
+  color: aliceblue;
+  font-size: 16px;
+  font-weight: 600;
+  transition: all .3s ease-in-out;
+}
+.login-btn:active {
+  transform: scale(0.98);
+}
+.logo, .nav-itme{
+  color: #000000c4;
+} */
+
