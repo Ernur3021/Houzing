@@ -5,8 +5,6 @@ import Vector from '../img/Vector.png'
 import Group from '../img/Group.png';
 
 
-
-
 function Footer() {
   return(
     <footer>
@@ -59,11 +57,8 @@ function Footer() {
             </div>
             
           </div> 
-      </div>
-      
+      </div>  
   </footer>
   )
 }
-
-
 export default Footer
